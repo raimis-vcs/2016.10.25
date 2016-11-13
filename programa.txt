@@ -1,0 +1,35 @@
+java aprasymas
+rysys tarp realiu dalyku, klasiu, objektu ir byte kodo
+pirma java programa: hello world
+kompiliavimas ir vykdymas
+daug budu isspresti problemai
+GIT
+bazines savokos - klase, objektas, metodai, esybes kintamieji
+PAKETAI
+bazine klases struktura
+bazine sintakse
+java modifikatoriai - public final private default static ir t.t.
+java kintamieji
+duomenu tipai: primityvus ir objektiniai
+skaiciu aibes
+java identifikatoriai(kintamuju pavadinimai)
+java raktiniai zodziai
+operatoriai +,-,==,t.t.
+STRING
+masyvai (arrays)
+if else
+switch
+ciklai ir ju kontrole
+random
+Data ir laikas
+konstruktoriai
+enum
+---
+OOP:
+override n overload
+interfaces and abstract classes
+files and input output, close()
+exceptionai ir handlinimas - try catch finally
+generics and the diamond syntax
+Kolekcijos
+
