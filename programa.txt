@@ -3,11 +3,11 @@ rysys tarp realiu dalyku, klasiu, objektu ir byte kodo
 pirma java programa: hello world
 kompiliavimas ir vykdymas
 daug budu isspresti problemai
-GIT
 bazines savokos - klase, objektas, metodai, esybes kintamieji
 PAKETAI
 bazine klases struktura
 bazine sintakse
+GIT
 java modifikatoriai - public final private default static ir t.t.
 java kintamieji
 duomenu tipai: primityvus ir objektiniai
