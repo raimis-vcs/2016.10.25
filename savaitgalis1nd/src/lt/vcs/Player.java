@@ -7,7 +7,7 @@ public class Player {
     private String name;
     private int cash = 250;
 
-    private Hand hand = new Hand(GameUtils.rollHand());
+//    private Hand hand = new Hand(GameUtils.rollHand());
 
     /** zaidejo konstruktorius
      * @param name zaidejo vardas
@@ -33,6 +33,6 @@ public class Player {
     }
 
     public Hand getHand() {
-        return hand;
+        return null;
     }
 }

@@ -32,7 +32,7 @@ public class GameUtils {
      * @return iskritusi kauliu skaiciu
      */
     public static int rollDice() {
-        return VcsUtils.rand(1, 6 + 1);
+        return VcsUtils.rand(1, 6);
     }
 
     /**
